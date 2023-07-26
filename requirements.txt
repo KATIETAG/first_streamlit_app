@@ -1,9 +1,6 @@
 #requirements.txt
 
 
-streamlit==1.25.0
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/main/tested_requirements/requirements_39.reqs
-snowflake-connector-python==3.0.4
 
-#charset-normalizer==2.0.12
+snowflake-connector-python==3.9
 
