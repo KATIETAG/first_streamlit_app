@@ -2,15 +2,8 @@
 
 
 streamlit==1.25.0
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/main/tested_requirements/requirements_311.reqs
-snowflake-connector-python==2.7.9
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/main/tested_requirements/requirements_39.reqs
+snowflake-connector-python==3.0.4
 
 #charset-normalizer==2.0.12
 
-
-
-#cffi==1.15.0
-
-#pyarrow<8.1.0,>=8.0.0
-
-#streamlit >= 1.9.2
